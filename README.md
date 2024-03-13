@@ -1,5 +1,11 @@
 # Генератор модулей для html-start.
 
+## Установка
+
+```bash
+npm install git+https://github.com/ildar-meyker/rabbit.git --save-dev
+```
+
 ## Сгенерировать .scss модуль
 
 Пример:
