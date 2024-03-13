@@ -1,0 +1,14 @@
+{
+	"name": "generator",
+	"version": "1.0.0",
+	"description": "Генератор модулей для html-start.",
+	"main": "index.js",
+	"bin": {
+		"my-module": "./index.js"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Ildar Meyker",
+	"license": "ISC"
+}
