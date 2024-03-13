@@ -1,10 +1,10 @@
 {
-	"name": "generator",
+	"name": "meyker",
 	"version": "1.0.0",
 	"description": "Генератор модулей для html-start.",
 	"main": "index.js",
 	"bin": {
-		"my-module": "./index.js"
+		"meyker": "./index.js"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
