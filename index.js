@@ -5,7 +5,7 @@ const path = require('path');
 
 // Проверяем, что переданы оба параметра
 if (process.argv.length < 4) {
-	console.log('Usage: node generator.js <block> <elements>');
+	console.log('Usage: npx rabbit <block> <elements>');
 	process.exit(1);
 }
 
