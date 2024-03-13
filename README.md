@@ -5,7 +5,7 @@
 Пример:
 
 ```bash
-npx meyker card-event h1,desc,left,right,image
+npx rabbit card-event h1,desc,left,right,image
 ```
 
 Это команда создаст файл `card-events.scss` в директории `src/styles/blocks/cards` со следующим содержимым:
